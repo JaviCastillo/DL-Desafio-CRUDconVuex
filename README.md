@@ -1,5 +1,13 @@
 # vuex-crud
 
+## Alumno: Javier Alejandro Castillo Oñatt
+
+## CREDENCIALES DE ACCESO
+```
+user:      user@api.com  ó  javi@javi.com
+password:  123456
+```
+
 ## Project setup
 ```
 npm install
